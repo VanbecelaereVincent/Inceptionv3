@@ -14,8 +14,8 @@ import tensorflow as tf
 # img_width, img_height = 150, 150
 
 
-train_data_dir = 'gs://bucket_groep1/train'
-test_data_dir = 'gs://bucket_groep1/test'
+train_data_dir = 'gs://bucket_groep1/train/'
+test_data_dir = 'gs://bucket_groep1/test/'
 
 #3725
 #928
